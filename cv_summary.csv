@@ -1,0 +1,4 @@
+Model,CV_Mean_Accuracy,CV_Std
+Logistic Regression,0.804,0.02
+Random Forest,0.829,0.017
+Decision Tree,0.826,0.014
